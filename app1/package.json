@@ -1,0 +1,16 @@
+{
+  "name": "app1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint-plugin-vue": "^7.4.0",
+    "typescript": "~3.9.3",
+    "vue": "^2.6.11"
+  }
+}
